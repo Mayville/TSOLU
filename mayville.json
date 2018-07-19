@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "PEBBLE BEACH Luna L.U",
-    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/12716291_1257933557556632_728312132187861262_o.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/peeble.jpg",
     "price": 30,
     "priceCurrency": "PHP",
     "lat": 48.881840,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "THUNDERBIRD RESORT San Fernando L.U",
-    "imageUrl": "https://www.google.com.ph/search?q=thunderbird+la+union&rlz=1C1CHBD_enPH791PH791&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi328GTwarcAhXBdd4KHVKPA7kQ_AUICigB&biw=1920&bih=925#imgrc=lB-sSWirXJANbM:",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/download.jpg",
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 48.888839,
