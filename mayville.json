@@ -46,10 +46,10 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
+    "name": "LIPAY SUR San Gabriel L.U",
+    "imageUrl": "https://github.com/Mayville/TSOLU/blob/master/13.png",
+    "price": 50,
+    "priceCurrency": "PHP",
     "lat": 48.827855,
     "lng": 2.350774
   }
