@@ -10,19 +10,19 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "name": "MACHO TEMPLE",
+    "imageUrl": "https://www.google.com.ph/search?q=macho+temple&rlz=1C1CHBD_enPH791PH791&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjT6PSxvqrcAhXI7WEKHZ8KCicQ_AUICigB&biw=1920&bih=925#imgrc=AuwZXjZiTr5ibM:",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.6212,
+    "lng": 120.3175
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
-    "priceCurrency": "EUR",
+    "name": "KAMAY NA BATO",
+    "imageUrl": "https://www.google.com.ph/search?rlz=1C1CHBD_enPH791PH791&biw=1920&bih=925&tbm=isch&sa=1&ei=WSlQW_aCHNv6-QaDrIp4&q=kamay+na+bato+la+union&oq=kama+na+bato&gs_l=img.3.0.0i7i30k1l4.27234.29638.0.31246.4.4.0.0.0.0.71.265.4.4.0....0...1c.1.64.img..0.4.265...0i7i5i30k1j0i8i7i30k1.0.BDTBNU3NDUU#imgrc=xpe9emHR7Y32sM:",
+    "price": 50,
+    "priceCurrency": "PHP",
     "lat": 48.885312,
     "lng": 2.341225
   },
