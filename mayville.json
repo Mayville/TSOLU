@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "LIPAY SUR San Gabriel L.U",
-    "imageUrl": "https://github.com/Mayville/TSOLU/blob/master/13.png",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/13.png",
     "price": 50,
     "priceCurrency": "PHP",
     "lat": 48.827855,
