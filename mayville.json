@@ -3,8 +3,8 @@
     "id": 145,
     "name": "TANGADAN FALLS San Gabriel L.U",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/TangadanFalls_06.jpg",
-    "price":"PHP",
-    "priceCurrency": "100",
+    "price":100,
+    "priceCurrency": "PHP",
     "lat": 16.6436,
     "lng": 120.4488
   },
@@ -12,8 +12,8 @@
     "id": 148,
     "name": "MACHO TEMPLE San Fernando L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/16334753526_cab4bfe4f4_b.jpg",
-    "price": "PHP",
-    "priceCurrency": 20,
+    "price": 20,
+    "priceCurrency": "PHP",
     "lat": 16.6212,
     "lng": 120.3175
   },
@@ -21,8 +21,8 @@
     "id": 201,
     "name": "KAMAY NA BATO Luna L.U",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/san-juan-kz-riman-6.jpg",
-    "price": "PHP",
-    "priceCurrency": 60,
+    "price": 60,
+    "priceCurrency": "PHP",
     "lat": 16.8308,
     "lng":  120.3551
   },
@@ -30,8 +30,8 @@
     "id": 205,
     "name": "PEBBLE BEACH Luna L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/peeble.jpg",
-    "price": "PHP",
-    "priceCurrency": 30,
+    "price": 30",
+    "priceCurrency": "PHP",
     "lat": 16.8393,
     "lng": 120.3382
   },
@@ -39,8 +39,8 @@
     "id": 210,
     "name": "THUNDERBIRD RESORT San Fernando L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/download.jpg",
-    "price": "PHP",
-    "priceCurrency": 200,
+    "price": 200,
+    "priceCurrency": "PHP",
     "lat": 16.6091,
     "lng": 120.2865
   },
@@ -48,8 +48,8 @@
     "id": 212,
     "name": "GRAPE PICKING Bauang L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/33.JPG",
-    "price": "PHP",
-    "priceCurrency": 300,
+    "price": 300,
+    "priceCurrency": "PHP",
     "lat": 16.5143,
     "lng": 120.3551
   },
@@ -57,8 +57,8 @@
     "id": 213,
     "name": "WATCH TOWER Luna L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/34.jpg",
-    "price": "PHP",
-    "priceCurrency": 100,
+    "price": 100,
+    "priceCurrency": "PHP",
     "lat":16.8568,
     "lng": 120.3729
   },
@@ -66,8 +66,8 @@
     "id": 214,
     "name": "HALO HALO DE ILOKO San Fernando L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/35.jpg",
-    "price": "PHP",
-    "priceCurrency": 1000,
+    "price": 1000,
+    "priceCurrency": "PHP",
     "lat": 16.6173,
     "lng": 120.3198
   },
@@ -75,8 +75,8 @@
     "id": 215,
     "name": "BASILICA MINORE OF OUR LADY OF CHARITY Agoo L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/36.jpg",
-    "price": "PHP",
-    "priceCurrency": 30,
+    "price": 30,
+    "priceCurrency": "PHP"
     "lat": 16.3247,
     "lng": 120.3551
   },
@@ -84,8 +84,8 @@
     "id": 212,
     "name": "PINDANGAN RUINS San Fernando L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/37.jpg",
-    "price": "PHP",
-    "priceCurrency": 20,
+    "price": 20",
+    "priceCurrency": "PHP",
     "lat": 16.5881,
     "lng": 120.3146
   },
@@ -93,8 +93,8 @@
     "id": 216,
     "name": "PUGAD ADVENTURE Pugo L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/39.jpg",
-    "price": "PHP",
-    "priceCurrency": 300,
+    "price": 300,
+    "priceCurrency": "PHP",
     "lat": 16.3367,
     "lng": 120.4788
   },
@@ -102,8 +102,8 @@
     "id": 217,
     "name": "BALAY ANITO FALLS San Gabriel  L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
-    "price": "PHP",
-    "priceCurrency": 50,
+    "price": 50,
+    "priceCurrency": "PHP",
     "lat": 16.7379,
     "lng": 120.4546
   },
@@ -111,8 +111,8 @@
     "id": 211,
     "name": "LIPAY SUR San Gabriel L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/13.png",
-    "price": 50,
-    "priceCurrency": "PHP",
+    "price": "PHP",
+    "priceCurrency": 50,
     "lat":  16.7379,
     "lng": 120.4546
   }
