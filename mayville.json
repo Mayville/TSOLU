@@ -5,8 +5,8 @@
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/TangadanFalls_06.jpg",
     "price":100,
     "priceCurrency": "PHP",
-    "lat": 16.6436,
-    "lng": 120.4488
+    "lat": 16.6694,
+    "lng": 120.5049
   },
   {
     "id": 148,
@@ -100,7 +100,7 @@
   },
   {
     "id": 217,
-    "name": "BALAY ANITO FALLS San Gabriel  L.U",
+    "name": "BALAY ANITO FALLS Santol  L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
     "price": 50,
     "priceCurrency": "PHP",
