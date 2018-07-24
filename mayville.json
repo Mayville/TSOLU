@@ -55,18 +55,18 @@
   },
   {
     "id": 213,
-    "name": "GRAPE PICKING Bauang L.U",
-    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/33.JPG",
-    "price": 300,
+    "name": "WATCH TOWER Luna L.U",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/34.jpg",
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 48.888839,
     "lng": 2.339208
   },
   {
     "id": 214,
-    "name": "GRAPE PICKING Bauang L.U",
-    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/33.JPG",
-    "price": 300,
+    "name": "HALO HALO DE ILOKO San Fernando L.U",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/35.jpg",
+    "price": 1000,
     "priceCurrency": "PHP",
     "lat": 48.888839,
     "lng": 2.339208
