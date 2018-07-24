@@ -76,7 +76,7 @@
     "name": "BASILICA MINORE OF OUR LADY OF CHARITY Agoo L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/36.jpg",
     "price": 30,
-    "priceCurrency": "PHP"
+    "priceCurrency": "PHP",
     "lat": 16.3247,
     "lng": 120.3551
   },
