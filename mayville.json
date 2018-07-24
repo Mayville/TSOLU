@@ -75,7 +75,7 @@
     "id": 215,
     "name": "BASILICA MINORE OF OUR LADY OF CHARITY Agoo L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/36.jpg",
-    "price": "PHP,
+    "price": "PHP",
     "priceCurrency": 30,
     "lat": 48.888839,
     "lng": 2.339208
@@ -84,8 +84,8 @@
     "id": 212,
     "name": "PINDANGAN RUINS San Fernando L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/37.jpg",
-    "price": 300,
-    "priceCurrency": "PHP",
+    "price": "PHP",
+    "priceCurrency": 20,
     "lat": 48.888839,
     "lng": 2.339208
   },
@@ -100,10 +100,10 @@
   },
   {
     "id": 217,
-    "name": "GRAPE PICKING Bauang L.U",
-    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/33.JPG",
-    "price": 300,
-    "priceCurrency": "PHP",
+    "name": "BALAY ANITO FALLS San Gabriel  L.U",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
+    "price": "PHP",
+    "priceCurrency": 50,
     "lat": 48.888839,
     "lng": 2.339208
   },
