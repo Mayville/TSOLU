@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "TANGADAN FALLS San Gabrirl L.U",
+    "name": "TANGADAN FALLS San Gabriel L.U",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/TangadanFalls_06.jpg",
     "price":"PHP",
     "priceCurrency": "100",
@@ -23,8 +23,8 @@
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/san-juan-kz-riman-6.jpg",
     "price": "PHP",
     "priceCurrency": 60,
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.8308,
+    "lng":  120.3551
   },
   {
     "id": 205,
@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/peeble.jpg",
     "price": "PHP",
     "priceCurrency": 30,
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.8393,
+    "lng": 120.3382
   },
   {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/download.jpg",
     "price": "PHP",
     "priceCurrency": 200,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.6091,
+    "lng": 120.2865
   },
     {
     "id": 212,
@@ -50,8 +50,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/33.JPG",
     "price": "PHP",
     "priceCurrency": 300,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.5143,
+    "lng": 120.3551
   },
   {
     "id": 213,
@@ -59,8 +59,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/34.jpg",
     "price": "PHP",
     "priceCurrency": 100,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat":16.8568,
+    "lng": 120.3729
   },
   {
     "id": 214,
@@ -68,8 +68,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/35.jpg",
     "price": "PHP",
     "priceCurrency": 1000,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.6173,
+    "lng": 120.3198
   },
   {
     "id": 215,
@@ -77,8 +77,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/36.jpg",
     "price": "PHP",
     "priceCurrency": 30,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.3247,
+    "lng": 120.3551
   },
   {
     "id": 212,
@@ -86,8 +86,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/37.jpg",
     "price": "PHP",
     "priceCurrency": 20,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.5881,
+    "lng": 120.3146
   },
   {
     "id": 216,
@@ -95,8 +95,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/39.jpg",
     "price": "PHP",
     "priceCurrency": 300,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.3367,
+    "lng": 120.4788
   },
   {
     "id": 217,
@@ -104,8 +104,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
     "price": "PHP",
     "priceCurrency": 50,
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.7379,
+    "lng": 120.4546
   },
   {
     "id": 211,
@@ -113,7 +113,7 @@
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/13.png",
     "price": 50,
     "priceCurrency": "PHP",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat":  16.7379,
+    "lng": 120.4546
   }
 ]
