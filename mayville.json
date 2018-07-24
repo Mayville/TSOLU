@@ -30,7 +30,7 @@
     "id": 205,
     "name": "PEBBLE BEACH Luna L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/peeble.jpg",
-    "price": 30",
+    "price": 30,
     "priceCurrency": "PHP",
     "lat": 16.8393,
     "lng": 120.3382
