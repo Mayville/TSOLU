@@ -3,55 +3,55 @@
     "id": 145,
     "name": "ELNIDO ,Palawan",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/B.jpg",
-    "price":100,
+    "price":595 ,
     "priceCurrency": "₱",
-    "lat": 16.6694,
-    "lng": 120.5049
+    "lat": 11.2097,
+    "lng": 119.4623
   },
   {
     "id": 148,
     "name": "BATANES ISLAND ,Batanes",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/D.jpg",
-    "price": 20,
+    "price": 3,000,
     "priceCurrency": "₱",
-    "lat": 16.6212,
-    "lng": 120.3175
+    "lat": 20.4485,
+    "lng": 121.9708
   },
   {
     "id": 201,
     "name": "CAMIGUIN ISLAND ,Camiguin",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/E.jpg",
-    "price": 60,
+    "price": 1,347,
     "priceCurrency": "₱",
-    "lat": 16.8308,
-    "lng":  120.3551
+    "lat": 9.1732,
+    "lng":  124.7299
   },
   {
     "id": 205,
     "name": "CORON ,Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/G.jpg",
-    "price": 30,
+    "price": 750,
     "priceCurrency": "₱",
-    "lat": 16.8393,
-    "lng": 120.3382
+    "lat": 12.0499,
+    "lng": 120.1782
   },
   {
     "id": 210,
     "name": "BANANUE RICE TERRACES ,Ifugao",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/J.jpg",
-    "price": 200,
+    "price": 223,
     "priceCurrency": "₱",
-    "lat": 16.6091,
-    "lng": 120.2865
+    "lat": 16.9240,
+    "lng": 121.0556
   },
     {
     "id": 212,
     "name": "PUERTO PRINCESA ,Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/I.jpg",
-    "price": 300,
+    "price": 1,074,
     "priceCurrency": "₱",
-    "lat": 16.5143,
-    "lng": 120.3551
+    "lat": 10.1926,
+    "lng": 118.9266
   },
   {
     "id": 213,
@@ -66,109 +66,109 @@
     "id": 214,
     "name": "VIGAN ,Ilocos Sur",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/L.jpg",
-    "price": 1000,
+    "price": 1,228,
     "priceCurrency": "₱",
-    "lat": 16.6173,
-    "lng": 120.3198
+    "lat": 9.8297,
+    "lng": 124.1397
   },
   {
     "id": 215,
     "name": "THE MANSION ,Baguio",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/M.jpg",
-    "price": 30,
+    "price": 89,
     "priceCurrency": "₱",
-    "lat": 16.3247,
-    "lng": 120.3551
+    "lat": 16.4124,
+    "lng": 120.6215
   },
   {
     "id": 212,
     "name": "BANGUI WINDMILLS ,ILOCOS NORTE",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/N.jpg",
-    "price": 20,
+    "price": 288,
     "priceCurrency": "₱",
-    "lat": 16.5881,
-    "lng": 120.3146
+    "lat": 18.5286,
+    "lng": 120.7181
   },
   {
     "id": 216,
     "name": "FANTASY WORLD ,Batangas",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/R.jpg",
-    "price": 300,
+    "price": 395,
     "priceCurrency": "₱",
-    "lat": 16.3367,
-    "lng": 120.4788
+    "lat": 14.0156,
+    "lng": 120.8730
   },
   {
     "id": 217,
     "name": "CAMBUGAHAY FALLS ,Siquijor",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/P.jpg",
-    "price": 50,
+    "price": 1,292,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 9.1399,
+    "lng":  123.6267
   },
    {
     "id": 217,
     "name": "BORACAY ISLAND ,Aklan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/C.jpg",
-    "price": 50,
+    "price": 745,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 11.9674,
+    "lng": 121.9248
   },
    {
     "id": 217,
     "name": "MALAPASCUA ISLAND ,Cebu",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/F.jpg",
-    "price": 50,
+    "price": 1,157,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 11.3358,
+    "lng": 124.1156
   },
    {
     "id": 217,
     "name": "MAYON VALCANO ,Albay",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/H.jpg",
-    "price": 50,
+    "price": 799,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 13.2548,
+    "lng": 123.6861
   },
    {
     "id": 217,
     "name": "TAAL VALCANO ,Tagaytay",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/s.jpg",
-    "price": 50,
+    "price": 372,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 14.0113,
+    "lng": 120.9977
   },
    {
     "id": 217,
     "name": "HUNDRED ISLAND ,Pangasinan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/O.jpg",
-    "price": 50,
+    "price": 163,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 16.2040,
+    "lng": 120.0409
   },
   {
     "id": 217,
     "name": "HUMA ISLAND ,Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/A.jpg",
-    "price": 50,
+    "price": 789,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 12.0537,
+    "lng": 119.9023
   },
    {
     "id": 217,
     "name": "ENCHANTED RIVER ,Hinatuan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/Q.jpg",
-    "price": 50,
+    "price": 1,650,
     "priceCurrency": "₱",
-    "lat": 16.7379,
-    "lng": 120.4546
+    "lat": 8.3837,
+    "lng": 126.3715
   },
   {
     "id": 211,
