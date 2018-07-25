@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "TANGADAN FALLS San Gabriel L.U",
+    "name": "ELNIDO ,Palawan",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/TangadanFalls_06.jpg",
     "price":100,
     "priceCurrency": "₱",
@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "MACHO TEMPLE San Fernando L.U",
+    "name": "BATANES ISLAND ,Batanes",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/16334753526_cab4bfe4f4_b.jpg",
     "price": 20,
     "priceCurrency": "₱",
@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "KAMAY NA BATO Luna L.U",
+    "name": "CAMIGUIN ISLAND ,Camiguin",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/san-juan-kz-riman-6.jpg",
     "price": 60,
     "priceCurrency": "₱",
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "PEBBLE BEACH Luna L.U",
+    "name": "CORON ,Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/peeble.jpg",
     "price": 30,
     "priceCurrency": "₱",
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "THUNDERBIRD RESORT San Fernando L.U",
+    "name": "BANANUE RICE TERRACES ,Ifugao",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/download.jpg",
     "price": 200,
     "priceCurrency": "₱",
@@ -46,7 +46,7 @@
   },
     {
     "id": 212,
-    "name": "GRAPE PICKING Bauang L.U",
+    "name": "PUERTO PRINCESA ,Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/33.JPG",
     "price": 300,
     "priceCurrency": "₱",
@@ -55,7 +55,7 @@
   },
   {
     "id": 213,
-    "name": "WATCH TOWER Luna L.U",
+    "name": "CHOCOLATE HILLS ,Bohol",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/34.jpg",
     "price": 100,
     "priceCurrency": "₱",
@@ -64,7 +64,7 @@
   },
   {
     "id": 214,
-    "name": "HALO HALO DE ILOKO San Fernando L.U",
+    "name": "VIGAN ,Ilocos Sur",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/35.jpg",
     "price": 1000,
     "priceCurrency": "₱",
@@ -73,7 +73,7 @@
   },
   {
     "id": 215,
-    "name": "BASILICA MINORE OF OUR LADY OF CHARITY Agoo L.U",
+    "name": "THE MANSION ,Baguio",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/36.jpg",
     "price": 30,
     "priceCurrency": "₱",
@@ -82,7 +82,7 @@
   },
   {
     "id": 212,
-    "name": "PINDANGAN RUINS San Fernando L.U",
+    "name": "BANGUI WINDMILLS ,ILOCOS NORTE",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/37.jpg",
     "price": 20,
     "priceCurrency": "₱",
@@ -91,7 +91,7 @@
   },
   {
     "id": 216,
-    "name": "PUGAD ADVENTURE Pugo L.U",
+    "name": "FANTASY WORLD ,Batangas",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/39.jpg",
     "price": 300,
     "priceCurrency": "₱",
@@ -99,6 +99,42 @@
     "lng": 120.4788
   },
   {
+    "id": 217,
+    "name": "BALAY ANITO FALLS Santol  L.U",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.7379,
+    "lng": 120.4546
+  },
+   {
+    "id": 217,
+    "name": "BALAY ANITO FALLS Santol  L.U",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.7379,
+    "lng": 120.4546
+  },
+   {
+    "id": 217,
+    "name": "BALAY ANITO FALLS Santol  L.U",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.7379,
+    "lng": 120.4546
+  },
+   {
+    "id": 217,
+    "name": "BALAY ANITO FALLS Santol  L.U",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.7379,
+    "lng": 120.4546
+  },
+   {
     "id": 217,
     "name": "BALAY ANITO FALLS Santol  L.U",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
