@@ -12,7 +12,7 @@
     "id": 148,
     "name": "BATANES ISLAND ,Batanes",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/D.jpg",
-    "price": 3,000,
+    "price": 3000,
     "priceCurrency": "₱",
     "lat": 20.4485,
     "lng": 121.9708
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "CAMIGUIN ISLAND ,Camiguin",
     "imageUrl":"https://raw.githubusercontent.com/Mayville/TSOLU/master/E.jpg",
-    "price": 1,347,
+    "price": 1347,
     "priceCurrency": "₱",
     "lat": 9.1732,
     "lng":  124.7299
@@ -48,7 +48,7 @@
     "id": 212,
     "name": "PUERTO PRINCESA ,Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/I.jpg",
-    "price": 1,074,
+    "price": 1074,
     "priceCurrency": "₱",
     "lat": 10.1926,
     "lng": 118.9266
@@ -66,7 +66,7 @@
     "id": 214,
     "name": "VIGAN ,Ilocos Sur",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/L.jpg",
-    "price": 1,228,
+    "price": 1228,
     "priceCurrency": "₱",
     "lat": 9.8297,
     "lng": 124.1397
@@ -120,7 +120,7 @@
     "id": 217,
     "name": "MALAPASCUA ISLAND ,Cebu",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/F.jpg",
-    "price": 1,157,
+    "price": 1157,
     "priceCurrency": "₱",
     "lat": 11.3358,
     "lng": 124.1156
@@ -165,7 +165,7 @@
     "id": 217,
     "name": "ENCHANTED RIVER ,Hinatuan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/Q.jpg",
-    "price": 1,650,
+    "price": 1650,
     "priceCurrency": "₱",
     "lat": 8.3837,
     "lng": 126.3715
