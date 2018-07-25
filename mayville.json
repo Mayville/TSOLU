@@ -109,7 +109,7 @@
   },
    {
     "id": 217,
-    "name": "BALAY ANITO FALLS Santol  L.U",
+    "name": "BORACAY ISLAND ,Aklan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
     "price": 50,
     "priceCurrency": "₱",
@@ -118,7 +118,7 @@
   },
    {
     "id": 217,
-    "name": "BALAY ANITO FALLS Santol  L.U",
+    "name": "MALAPASCUA ISLAND ,Cebu",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
     "price": 50,
     "priceCurrency": "₱",
@@ -127,7 +127,7 @@
   },
    {
     "id": 217,
-    "name": "BALAY ANITO FALLS Santol  L.U",
+    "name": "MAYON VALCANO ,Albay",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
     "price": 50,
     "priceCurrency": "₱",
@@ -136,7 +136,16 @@
   },
    {
     "id": 217,
-    "name": "BALAY ANITO FALLS Santol  L.U",
+    "name": "TAAL VALCANO ,Tagaytay",
+    "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.7379,
+    "lng": 120.4546
+  },
+   {
+    "id": 217,
+    "name": "HUNDRED ISLAND ,Pangasinan",
     "imageUrl": "https://raw.githubusercontent.com/Mayville/TSOLU/master/38.jpg",
     "price": 50,
     "priceCurrency": "₱",
